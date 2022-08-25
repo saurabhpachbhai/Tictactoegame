@@ -12,6 +12,7 @@ namespace TicTacToeGame
         static int position;
         static int player = 1;
         static int check = 0;
+        static int age = 10;
 
 
 
